@@ -5,13 +5,10 @@
 https://www.youtube.com/watch?v=OaZov9YCnGs
 ## 2. for  Anime faces datasets.
 https://www.youtube.com/watch?v=CiT7hq3uldI
+ https://j.gifs.com/1WZ2lj.gif
 
 # You can download Datasets from here--
 
-        MNIST dataset: http://yann.lecun.com/exdb/mnist/
-        CelebA dataset: http://mmlab.ie.cuhk.edu.hk/projects/CelebA.html
+  ### MNIST dataset: http://yann.lecun.com/exdb/mnist/train-images-idx3-ubyte.gz to data/MNIST/raw/train-images-idx3-ubyte.gz
+  ### ANIME dataset: https://drive.google.com/file/d/1HG7YnakUkjaxtNMclbl2t5sJwGLcHYsI/view?usp=sharing
 
-    pytorch_CelebA_DCGAN.py requires 64 x 64 size image, so you have to resize CelebA dataset (celebA_data_preprocess.py).
-
-    pytorch_CelebA_DCGAN.py added learning rate decay cod
- https://j.gifs.com/1WZ2lj.gif
