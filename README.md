@@ -12,6 +12,5 @@
 
     pytorch_CelebA_DCGAN.py requires 64 x 64 size image, so you have to resize CelebA dataset (celebA_data_preprocess.py).
 
-    pytorch_CelebA_DCGAN.py added learning rate decay code.
- [![Demo CountPages alpha](https://share.gifyoutube.com/KzB6Gb.gif)](https://youtu.be/OaZov9YCnGs)
-
+    pytorch_CelebA_DCGAN.py added learning rate decay cod
+ https://j.gifs.com/1WZ2lj.gif
