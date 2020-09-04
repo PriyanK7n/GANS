@@ -4,7 +4,8 @@
 ## 1. for  MNIST Dataset 
 https://www.youtube.com/watch?v=OaZov9YCnGs
 
-![alt text](hhttps://imgflip.com/gif/4du9ch)
+![4du9ch](https://user-images.githubusercontent.com/44031169/92254612-c8665c00-eeee-11ea-8d63-107ccc69b171.gif)
+
 ## 2. for  Anime faces datasets.
 https://www.youtube.com/watch?v=CiT7hq3uldI
  https://j.gifs.com/1WZ2lj.gif
