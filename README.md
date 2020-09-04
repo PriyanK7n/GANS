@@ -1,10 +1,13 @@
-# pytorch-MNIST-Anime-Gans
+# pytorch-MNIST-Gans
+# pytorch-Anime-Gans
 
-Pytorch implementation of Generative Adversarial Networks (GAN) [1] and Deep Convolutional Generative Adversarial Networks (DCGAN)  for MNIST and Anime faces datasets.
+Pytorch implementation of Generative Adversarial Networks (GAN) [1] and Deep Convolutional Generative Adversarial Networks (DCGAN)
+# for MNIST Dataset 
+# for Anime faces datasets.
 
-    If you want to train using cropped CelebA dataset, you have to change isCrop = False to isCrop = True.
 
-    you can download
+# You can download Datasets from here--
+
         MNIST dataset: http://yann.lecun.com/exdb/mnist/
         CelebA dataset: http://mmlab.ie.cuhk.edu.hk/projects/CelebA.html
 
