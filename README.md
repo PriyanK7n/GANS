@@ -1,8 +1,8 @@
 
 
 # Pytorch implementation of Generative Adversarial Networks (GAN) [1] and Deep Convolutional Generative Adversarial Networks (DCGAN)
-## for  MNIST Dataset 
-## for  Anime faces datasets.
+## 1. for  MNIST Dataset 
+## 2. for  Anime faces datasets.
 
 
 # You can download Datasets from here--
