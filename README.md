@@ -8,7 +8,10 @@ https://www.youtube.com/watch?v=OaZov9YCnGs
 
 ## 2. for  Anime faces datasets.
 https://www.youtube.com/watch?v=CiT7hq3uldI
- https://j.gifs.com/1WZ2lj.gif
+
+![4dud7y](https://user-images.githubusercontent.com/44031169/92255060-6c500780-eeef-11ea-8ee9-4f8ef18e7722.gif)
+
+
 
 # You can download Datasets from here--
 
