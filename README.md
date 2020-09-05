@@ -1,6 +1,7 @@
 
 
-# Pytorch implementation of Generative Adversarial Networks (GAN) and Deep Convolutional Generative Adversarial Networks (DCGAN)
+# Pytorch Implementation of Generative Adversarial Networks (GAN)
+
 ## 1. for  MNIST Dataset 
 https://www.youtube.com/watch?v=OaZov9YCnGs
 
