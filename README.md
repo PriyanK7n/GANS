@@ -4,11 +4,13 @@
 ## 1. for  MNIST Dataset 
 https://www.youtube.com/watch?v=OaZov9YCnGs
 
+**Results**
 ![4du9ch](https://user-images.githubusercontent.com/44031169/92254612-c8665c00-eeee-11ea-8d63-107ccc69b171.gif)
 
 ## 2. for  Anime faces datasets.
 https://www.youtube.com/watch?v=CiT7hq3uldI
 
+**Results**
 ![4dud7y](https://user-images.githubusercontent.com/44031169/92255060-6c500780-eeef-11ea-8ee9-4f8ef18e7722.gif)
 
 
